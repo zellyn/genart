@@ -1,2 +1,4 @@
 jupyterlab
 drawsvg
+marimo
+Pillow
